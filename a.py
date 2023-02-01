@@ -1,6 +1,5 @@
 
 o
-password='secret'
 [[LIST]sss:vomit:img src=x onerror=alert(document.domain)//:vomit:<a>dfdf</a>
 
 [PHP]
