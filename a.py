@@ -1,4 +1,4 @@
-
+password='supera'
 o
 [[LIST]sss:vomit:img src=x onerror=alert(document.domain)//:vomit:<a>dfdf</a>
 
